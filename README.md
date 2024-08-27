@@ -3,4 +3,4 @@ This is a workshop offered by VLSI System Design, focused on RTL to GDSII flow o
 
 # Day 1 Lab
 
-<img width="1470" alt="Synthesis run on Open Lane interactive" src="">
+<img width="1470" alt="Synthesis run on Open Lane interactive" src="figures/D1-synthesis_successful.png">
