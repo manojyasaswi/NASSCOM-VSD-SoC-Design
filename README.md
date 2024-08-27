@@ -11,3 +11,5 @@ prep -design picorv32a
 run_synthesis
 ```
 <img width="1470" alt="Synthesis run using Open Lane interactive" src="figures/D1-synthesis_successful.png">
+
+<img width="1470" alt="Synthesized RTL" src="figures/D1-synthesized-rtl.png">
