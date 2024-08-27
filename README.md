@@ -4,9 +4,10 @@ This is a workshop offered by VLSI System Design, focused on RTL to GDSII flow o
 # Day 1 Lab
 Synthesis Steps:
 
+```bash
 ./flow.tcl -interactive
 package require openlane 0.9
 prep -design picorv32a
 run_synthesis
-
+```
 <img width="1470" alt="Synthesis run using Open Lane interactive" src="figures/D1-synthesis_successful.png">
