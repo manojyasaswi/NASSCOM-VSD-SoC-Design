@@ -25,7 +25,7 @@ Flop Ratio = No. of cells / No. of D FFs
 
 
 # Day 2 Lab
-Floorplan Steps:
+Placement Steps:
 
 ```bash
 ./flow.tcl -interactive
