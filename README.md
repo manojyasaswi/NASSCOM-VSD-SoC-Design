@@ -25,7 +25,7 @@ Flop Ratio = No. of cells / No. of D FFs
 
 
 # Day 2 Lab
-Placement Steps:
+Floorplan Steps:
 
 ```bash
 ./flow.tcl -interactive
@@ -47,7 +47,7 @@ Die Area = 660685 / 1000 , 671405 / 1000 => 660 x 671 microns
 
 
 ### Placement
-Floorplan Steps:
+Placement Steps:
 
 ```bash
 ./flow.tcl -interactive
