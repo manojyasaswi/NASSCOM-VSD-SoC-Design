@@ -57,6 +57,6 @@ run_placement
 ```
 ### Floorplan Magic Output
 
-Die Area = 660685 / 1000 , 671405 / 1000 => 660 x 671 microns
+
 <img width="1470" alt="Placed design" src="figures/magic_placement.png">
 
