@@ -102,3 +102,13 @@ Propagation Delay = 2.207 ns - 2.148 ns = 0.005 ns
 <img width="1470" alt="Placed design" src="figures/nwell_tapped_commands.png">
 <img width="1470" alt="Placed design" src="figures/nwell_tap_layout.png">
 
+# Day 4 Lab
+
+### Extract the LEF File
+1. Open the inverter file in magic. <br>
+2. Set the grid: ```bash grid 0.46um 0.34um 0.23um 0.17um``` <br>
+3. Create ports for lef extraction. <br>
+4. Extract the lef file using ```bash lef write``` command. <br>
+
+<img width="1470" alt="Placed design" src="figures/lef_file.png">
+
