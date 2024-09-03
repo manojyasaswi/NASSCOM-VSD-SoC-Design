@@ -60,3 +60,29 @@ run_placement
 
 <img width="1470" alt="Placed design" src="figures/magic_placement.png">
 
+
+# Day 3 Lab
+
+Adding custom cell to the layout: 
+Gitclone the inverter cell and open it using magic.
+
+<img width="1470" alt="Placed design" src="figures/add_inv.png">
+
+Extract the spice file for simulation:
+```bash
+extract all 
+ext2spice cthresh 0 rthresh 0
+ext2spice
+```
+
+<img width="1470" alt="Placed design" src="figures/ext2spice.png">
+
+Give inputs to the spice file and set the analysis type (tran):
+<img width="1470" alt="Placed design" src="figures/spice_simulation_file.png">
+
+Inverter Simulation:
+
+<img width="1470" alt="Placed design" src="figures/spice_sim.png">
+
+
+
