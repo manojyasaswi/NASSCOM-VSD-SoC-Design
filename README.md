@@ -127,3 +127,13 @@ Propagation Delay = 2.207 ns - 2.148 ns = 0.005 ns
 
 <img width="1470" alt="Placed design" src="figures/inv_file_added_placemement.png">
 
+
+
+# Day 5 Lab
+
+<img width="1470" alt="Placed design" src="figures/routing_complete_wirelength.png">
+
+<img width="1470" alt="Placed design" src="figures/final_layout.png">
+
+<img width="1470" alt="Placed design" src="figures/final_layout_2.png">
+
