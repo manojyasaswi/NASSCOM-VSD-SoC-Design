@@ -112,3 +112,18 @@ Propagation Delay = 2.207 ns - 2.148 ns = 0.005 ns
 
 <img width="1470" alt="Placed design" src="figures/lef_file.png">
 
+<img width="1470" alt="Placed design" src="figures/synthesis_slack_met.png">
+
+<img width="1470" alt="Placed design" src="figures/cts_hold_slack.png">
+
+<img width="1470" alt="Placed design" src="figures/cts_setup_time_met.png">
+
+<img width="1470" alt="Placed design" src="figures/open_sta_slack_met.png">
+
+
+<img width="1470" alt="Placed design" src="figures/post_cts_openroad_analysis.png">
+
+<img width="1470" alt="Placed design" src="figures/post_cts_openroad_analysis.png">
+
+
+
