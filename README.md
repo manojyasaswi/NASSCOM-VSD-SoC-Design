@@ -125,5 +125,5 @@ Propagation Delay = 2.207 ns - 2.148 ns = 0.005 ns
 
 <img width="1470" alt="Placed design" src="figures/post_cts_openroad_analysis.png">
 
-<img width="1470" alt="Placed design" src="figures/inv_file_added_placement.png">
+<img width="1470" alt="Placed design" src="figures/inv_file_added_placemement.png">
 
