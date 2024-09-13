@@ -137,3 +137,6 @@ Propagation Delay = 2.207 ns - 2.148 ns = 0.005 ns
 
 <img width="1470" alt="Placed design" src="figures/final_layout_2.png">
 
+# Certificate of Completion
+
+<img width="1470" alt="certificate" src="figures/certificate.png">
